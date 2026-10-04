@@ -11,8 +11,8 @@ a response quality check before finalizing.
 Clone and copy the skill into your Hermes skills directory:
 
 ```bash
-git clone https://github.com/Geronimolt/clever-skill.git
-cp -r clever-skill/skills/clever ~/.hermes/skills/
+git clone https://github.com/Geronimolt/Clever.git
+cp -r Clever/skills/clever ~/.hermes/skills/
 ```
 
 Hermes loads it automatically (the `disable-model-invocation` flag means it is
